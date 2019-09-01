@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/amcalvo
+  link: https://twitter.com/almcalvo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
