@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
+- icon: researchgate
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/amcalv
