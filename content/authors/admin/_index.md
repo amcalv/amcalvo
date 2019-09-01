@@ -23,7 +23,7 @@ bio: I was born in Madrid where I studied Mechanical Engineering and a Master de
 interests:
 - Free-surface flows
 - Surface rheology
-- Low-Reynolds-number fluid-structure interaction
+- Fluid-structure interaction at low Reynolds numbers 
 
 education:
   courses:
