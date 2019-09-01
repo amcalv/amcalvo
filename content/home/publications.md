@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
+
+**1**. **A. Martínez-Calvo**, M.Rubio-Rubio & A. Sevilla, The nonlinear states of viscous capillary jets confined in the axial direction, _J. Fluid Mech._ **834**, 335-358 (2018).
