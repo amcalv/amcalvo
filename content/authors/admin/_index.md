@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla (Universidad Carlos III de Madrid). My research interests lies within the filed of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Fluid Mechanics
+    institution: Universidad Carlos III de Madrid
+    year: Currently
+  - course: MSc in Applied Mathematics
+    institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
+    year: 2017
+  - course: BSc in Mechanical Engineering
+    institution: Universidad Carlos III de Madrid
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/amcalvo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/amcalv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
