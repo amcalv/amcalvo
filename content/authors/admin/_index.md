@@ -21,9 +21,9 @@ organizations:
 bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla (Universidad Carlos III de Madrid). My research interests lies within the filed of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Free-surface flows
+- Surface rheology
+- Low-Reynolds-number fluid-structure interaction
 
 education:
   courses:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla (Universidad Carlos III de Madrid). My research interests lies within the filed of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
