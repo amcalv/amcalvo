@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/almcalvo
+  link: '#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es"
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/almcalvo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
 - icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=ThiJBj8AAAAJ&hl=es
+  link: https://www.researchgate.net/profile/A_Martinez-Calvo
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/martinezcalvo_a_1.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2109-8145
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/amcalv
