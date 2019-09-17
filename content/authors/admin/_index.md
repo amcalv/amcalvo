@@ -15,7 +15,7 @@ role: PhD candidate in Fluid Mechanics
 # Organizations/Affiliations
 organizations:
 - name: Universidad Carlos III de Madrid
-  url: ""
+  url: "https://www.uc3m.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. My research lies within the field of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es"
+  link: mailto:amcalvo@ing.uc3m.es   #'#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/almcalvo
