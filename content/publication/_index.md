@@ -1,8 +1,6 @@
 ---
 title: Publications
 
-1-- Publication 1
-
 # View.
 #   1 = List
 #   2 = Compact
@@ -11,7 +9,10 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+#header:
+#  caption: ""
+#  image: ""
+
+**1** -- Publication 1
+
 ---
