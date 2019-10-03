@@ -29,6 +29,10 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+    
+  [[content.filter_button]]
+     name = "Deep Learning"
+    tag = "Deep Learning"
   
 [design]
   # Toggle between the various page layout types.
