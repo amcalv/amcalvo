@@ -1,6 +1,8 @@
 ---
 title: Publications
 
+1-- Publication 1
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -13,5 +15,3 @@ header:
   caption: ""
   image: ""
 ---
-
-1-- Publication 1
