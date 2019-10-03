@@ -71,6 +71,7 @@ email = "amcalvo@ing.uc3m.es"
 phone = "(+34) 91 624 6225"
 address = "Building Agustín de Betancourt, Office 1.1.D14, Universidad Carlos III, Leganés (Madrid), 28911, Spain"
 
+
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
 #                  Wednesday 09:00 to 10:00"""
@@ -103,7 +104,7 @@ address = "Building Agustín de Betancourt, Office 1.1.D14, Universidad Carlos I
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
 latitude = "37.4275"
 longitude = "-122.1697"
