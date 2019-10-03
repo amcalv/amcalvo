@@ -67,3 +67,22 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**9** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Satellite droplet formation in the natural breakup of surfactant-laden liquid threads_, 8th International Symposium on Bifurcations and Instabilities in Fluid Dynamics, Limerick, Ireland, Jul. 2019
+
+**8** -- **A. Martínez-Calvo**, D. Moreno-Boza & A. Sevilla, _Stokes description of thin liquid film break-up, 8th International Symposium on Bifurcations and Instabilities in Fluid Dynamics_, Limerick, Ireland, Jul. 2019
+
+**7** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in deformable microchannels_, STAMS 2019 (First Colloquium of the Spanish Theoretical and Applied Mechanics Society), Madrid, Spain, March. 2019
+
+**6** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in shallow deformable microchannels_, 2019 PRISM Annual Research Symposium, Princeton, USA, March. 2019
+
+**5** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Satellite-droplet formation regimes in the natural breakup of clean and surfactant-laden liquid threads_, 71st Annual Meeting of the APS Division of Fluid Dynamics, Volume 63, Number 13, Atlanta, USA, Nov. 2018
+
+**4** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Temporal analysis of surfactant-laden liquid threads: linear stability and nonlinear dynamics_, 12th European Fluid Mechanics Conference, Vienna, Austria, Sept. 2018
+
+**3** -- **A. Martínez-Calvo** & A. Sevilla, _The role of surface viscosities in the instability of liquid threads, 70th Annual Meeting of the APS Division of Fluid Dynamics_, Volume 62, Number 14, Denver, USA, Nov. 2017
+
+**2** -- **A. Martínez-Calvo**, M. Rubio-Rubio & A. Sevilla, _Non-linear regimes of axially-confined vertical capillary jets, 11th European Fluid Mechanics Conference_, Sevilla, Spain, Sept. 2016
+
+**1** -- A. Sevilla, **A. Martínez-Calvo** & M. Rubio-Rubio, _Non-linear state selection of axially confined viscous liquid jets_, 68th Annual Meeting of the APS Division of Fluid Dynamics, Volume 60, Number 21, Boston, USA, Nov. 2015
+
