@@ -10,21 +10,21 @@ publication = "In *International Conference on Multimedia and Expo Workshops (IC
 publication_short = "In *ICMEW*"
 selected = true
 title = "Mobile visual clothing search"
-url_code = "#"
-url_dataset = "#"
+# url_code = "#"
+# url_dataset = "#"
 url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
+# url_project = "project/deep-learning/"
+# url_slides = "#"
+# url_video = "#"
 
 [[url_custom]]
 name = "Custom Link"
 url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption :smile:"
 
 +++
 
