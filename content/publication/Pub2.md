@@ -5,11 +5,12 @@ date = "2018-07-10"
 # image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "_J. Fluid Mech._ **846**, 877-901 (<a href="https://arxiv.org/abs/1805.05158">arXiv</a>)"
+publication = "_J. Fluid Mech._ **846**, 877-901"
 # publication_short = "In "
 selected = true
 title = "Temporal stability of free liquid threads with surface viscoelasticity"
-url = "/10.1017/jfm.2017.706"
+url_doi = "/10.1017/jfm.2017.706"
+url_arxiv = "https://arxiv.org/abs/1805.05158"
 # url_dataset = "#"
 url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8E885EC7AF31C37B8B9A51C99739094D/S0022112018002938a_hi.pdf/_div_class__title__Temporal_stability_of_free_liquid_threads_with_surface_viscoelasticity__div_.pdf"
 # url_project = "project/deep-learning/"
