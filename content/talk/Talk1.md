@@ -2,7 +2,6 @@
 # abstract = ""
 authors = ["A. Sevilla", "**A. Martínez-Calvo**", "M. Rubio-Rubio"]
 date = "2015-10-21"
-time = "-"
 # image_preview = ""
 math = true
 event = "68th Annual Meeting of the APS Division of Fluid Dynamics, Volume 60, Number 21, Boston, USA, Nov. 2015"
