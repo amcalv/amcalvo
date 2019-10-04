@@ -66,5 +66,3 @@ subtitle = ""
  css_class = ""
 +++
  
-
-# <a href=" https://alejandromcalvo.netlify.com/publication/">See all publications</a>
