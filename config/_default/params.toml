@@ -27,7 +27,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+# twitter = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -156,7 +156,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 # Comments.
