@@ -68,15 +68,6 @@ subtitle = ""
  css_class = ""
 +++
 
-**9** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Satellite droplet formation in the natural breakup of surfactant-laden liquid threads_, 8th International Symposium on Bifurcations and Instabilities in Fluid Dynamics, Limerick, Ireland, Jul. 2019
-
-**8** -- **A. Martínez-Calvo**, D. Moreno-Boza & A. Sevilla, _Stokes description of thin liquid film break-up, 8th International Symposium on Bifurcations and Instabilities in Fluid Dynamics_, Limerick, Ireland, Jul. 2019
-
-**7** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in deformable microchannels_, STAMS 2019 (First Colloquium of the Spanish Theoretical and Applied Mechanics Society), Madrid, Spain, March. 2019
-
-**6** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in shallow deformable microchannels_, 2019 PRISM Annual Research Symposium, Princeton, USA, March. 2019
-
-
 
 
 
