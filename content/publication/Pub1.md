@@ -5,7 +5,7 @@ date = "2018-01-10"
 # image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "_J. Fluid Mech._ **834**, 335-358 (2018)"
+publication = "_J. Fluid Mech._ **834**, 335-358 (<a href="https://arxiv.org/abs/1802.08477">arXiv</a>)"
 # publication_short = "In "
 selected = true
 title = "The nonlinear states of viscous capillary jets confined in the axial direction"
