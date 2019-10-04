@@ -66,8 +66,5 @@ subtitle = ""
  css_class = ""
 +++
  
-**5** -- D. Moreno-Boza, **A. Martínez-Calvo** & A. Sevilla, Stokes theory of the van der Waals rupture of ultrathin liquid films, _Under review in Phys. Rev. Fluids_ (<a href="https://arxiv.org/abs/1906.04685">arXiv</a>)
-
-**4** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, Natural break-up and satellite formation regimes of surfactant-laden liquid threads, _Under review in J. Fluid Mech._ (<a href="https://arxiv.org/abs/1903.02839">arXiv</a>)
 
  <a href=" https://alejandromcalvo.netlify.com/publication/">See all publications</a>
