@@ -4,11 +4,11 @@ authors = ["**A. Martínez-Calvo**", "M. Rubio-Rubio", "A. Sevilla"]
 date = "2018-01-10"
 # image_preview = ""
 math = true
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "_J. Fluid Mech_"
 # publication_short = "In "
 selected = true
-title = "The nonlinear states of viscous capillary jets confined in the axial direction"
+title = "<a href=" https://doi.org/10.1017/jfm.2017.706">The nonlinear states of viscous capillary jets confined in the axial direction</a>"
 # url_code = "#"
 # url_dataset = "#"
 url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6208B8D339F5DE88BC63B7AB891C4873/S0022112017007066a_hi.pdf/_div_class__title__The_nonlinear_states_of_viscous_capillary_jets_confined_in_the_axial_direction__div_.pdf"
@@ -17,8 +17,8 @@ url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 # url_video = "#"
 
 # [[url_custom]]
- name = "Custom Link"
- url = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-states-of-viscous-capillary-jets-confined-in-the-axial-direction/6208B8D339F5DE88BC63B7AB891C4873"
+ # name = "Custom Link"
+ # url = ""
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
