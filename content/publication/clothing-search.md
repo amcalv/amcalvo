@@ -8,8 +8,8 @@ publication_types = ["1"]
 publication = "_J. Fluid Mech_"
 # publication_short = "In "
 selected = true
-title = "<a href=" https://doi.org/10.1017/jfm.2017.706">The nonlinear states of viscous capillary jets confined in the axial direction</a>"
-# url_code = "#"
+title = "The nonlinear states of viscous capillary jets confined in the axial direction"
+url = "https://doi.org/10.1017/jfm.2017.706"
 # url_dataset = "#"
 url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6208B8D339F5DE88BC63B7AB891C4873/S0022112017007066a_hi.pdf/_div_class__title__The_nonlinear_states_of_viscous_capillary_jets_confined_in_the_axial_direction__div_.pdf"
 # url_project = "project/deep-learning/"
