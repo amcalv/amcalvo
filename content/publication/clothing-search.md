@@ -5,8 +5,8 @@ date = "2018-01-10"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "_J. Fluid Mech._"
-# publication_short = "In *ICMEW*"
+publication = "_J. Fluid Mech_"
+# publication_short = "In "
 selected = true
 title = "The nonlinear states of viscous capillary jets confined in the axial direction"
 # url_code = "#"
@@ -17,8 +17,8 @@ url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 # url_video = "#"
 
 # [[url_custom]]
-# name = "Custom Link"
-# url = "http://www.example.org"
+ name = "Custom Link"
+ url = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nonlinear-states-of-viscous-capillary-jets-confined-in-the-axial-direction/6208B8D339F5DE88BC63B7AB891C4873"
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
