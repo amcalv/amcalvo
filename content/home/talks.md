@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -75,10 +75,6 @@ subtitle = ""
 **7** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in deformable microchannels_, STAMS 2019 (First Colloquium of the Spanish Theoretical and Applied Mechanics Society), Madrid, Spain, March. 2019
 
 **6** -- **A. Martínez-Calvo**, A. Sevilla & H. A. Stone, _Transient flow in shallow deformable microchannels_, 2019 PRISM Annual Research Symposium, Princeton, USA, March. 2019
-
-**5** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Satellite-droplet formation regimes in the natural breakup of clean and surfactant-laden liquid threads_, 71st Annual Meeting of the APS Division of Fluid Dynamics, Volume 63, Number 13, Atlanta, USA, Nov. 2018
-
-**4** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Temporal analysis of surfactant-laden liquid threads: linear stability and nonlinear dynamics_, 12th European Fluid Mechanics Conference, Vienna, Austria, Sept. 2018
 
 
 
