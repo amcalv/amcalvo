@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -84,5 +84,5 @@ subtitle = ""
 
 **2** -- **A. Martínez-Calvo**, M. Rubio-Rubio & A. Sevilla, _Non-linear regimes of axially-confined vertical capillary jets, 11th European Fluid Mechanics Conference_, Sevilla, Spain, Sept. 2016
 
-**1** -- A. Sevilla, **A. Martínez-Calvo** & M. Rubio-Rubio, _Non-linear state selection of axially confined viscous liquid jets_, 68th Annual Meeting of the APS Division of Fluid Dynamics, Volume 60, Number 21, Boston, USA, Nov. 2015
+
 
