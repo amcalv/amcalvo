@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -80,9 +80,7 @@ subtitle = ""
 
 **4** -- **A. Martínez-Calvo**, J. Rivero-Rodríguez, B. Scheid & A. Sevilla, _Temporal analysis of surfactant-laden liquid threads: linear stability and nonlinear dynamics_, 12th European Fluid Mechanics Conference, Vienna, Austria, Sept. 2018
 
-**3** -- **A. Martínez-Calvo** & A. Sevilla, _The role of surface viscosities in the instability of liquid threads, 70th Annual Meeting of the APS Division of Fluid Dynamics_, Volume 62, Number 14, Denver, USA, Nov. 2017
 
-**2** -- **A. Martínez-Calvo**, M. Rubio-Rubio & A. Sevilla, _Non-linear regimes of axially-confined vertical capillary jets, 11th European Fluid Mechanics Conference_, Sevilla, Spain, Sept. 2016
 
 
 
