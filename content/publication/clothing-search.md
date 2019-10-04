@@ -1,15 +1,15 @@
 +++
 abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
 abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
-authors = ["GA Cushen", "MS Nixon"]
-date = "2013-07-01"
+authors = ["**A. Martínez-Calvo**", "M. Rubio-Rubio", "A. Sevilla"]
+date = "2018-01-10"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
-selected = true
-title = "Mobile visual clothing search"
+publication = "_J. Fluid Mech._"
+# publication_short = "In *ICMEW*"
+selected = false
+title = "The nonlinear states of viscous capillary jets confined in the axial direction"
 # url_code = "#"
 # url_dataset = "#"
 url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6208B8D339F5DE88BC63B7AB891C4873/S0022112017007066a_hi.pdf/_div_class__title__The_nonlinear_states_of_viscous_capillary_jets_confined_in_the_axial_direction__div_.pdf"
