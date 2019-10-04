@@ -1,10 +1,10 @@
 +++
 # abstract = ""
 authors = ["A. Sevilla", "**A. Martínez-Calvo**", "M. Rubio-Rubio"]
-date = "2015-10-21"
+date = "2015-11-21"
 # image_preview = ""
 math = true
-event = "68th Annual Meeting of the APS Division of Fluid Dynamics, Volume 60, Number 21, Boston, USA, Nov. 2015"
+event = "68th Annual Meeting of the APS Division of Fluid Dynamics, Volume 60, Number 21, Boston, USA"
 selected = true
 title = "Non-linear state selection of axially confined viscous liquid jets, 68th Annual Meeting of the APS Division of Fluid Dynamics, Boston, USA, Nov. 2015"
 # url_dataset = "#"
