@@ -1,11 +1,11 @@
 +++
 # abstract = ""
 authors = ["**A. Martínez-Calvo**", "J. Rivero-Rodríguez", "B. Scheid", "A. Sevilla"]
-date = "2020-25-01"
+date = "2020-01-25"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "_J. Fluid Mech_ **883**, A35."
+publication = "_J. Fluid Mech_ **883**, A35"
 # publication_short = "In "
 selected = true
 title = "Natural break-up and satellite formation regimes of surfactant-laden liquid threads"
