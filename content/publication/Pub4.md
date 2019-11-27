@@ -1,18 +1,18 @@
 +++
 # abstract = ""
 authors = ["**A. Martínez-Calvo**", "J. Rivero-Rodríguez", "B. Scheid", "A. Sevilla"]
-date = "2019-10-03"
+date = "2020-25-01"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "under review in _J. Fluid Mech_"
+publication = "_J. Fluid Mech_ **883**, A35."
 # publication_short = "In "
 selected = true
 title = "Natural break-up and satellite formation regimes of surfactant-laden liquid threads"
-# url_title = "https://doi.org/10.1017/jfm.2018.293"
-url_preprint = "https://arxiv.org/abs/1903.02839"
+url_title = "https://doi.org/10.1017/jfm.2019.874"
+# url_preprint = "https://arxiv.org/abs/1903.02839"
 # url_dataset = "#"
-# url_pdf = "https://arxiv.org/pdf/1903.02839.pdf"
+url_pdf = "https://arxiv.org/pdf/1903.02839.pdf"
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
