@@ -147,6 +147,17 @@ sharing = true
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+  
+# Configuration of in preparation pages.
+[inpreparation]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  post_view = 2
+  publication_view = 4
+  talk_view = 3
 
 # Configuration of project pages.
 [projects]
@@ -157,7 +168,6 @@ sharing = true
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 4
-  inpreparation_view = 4
   talk_view = 3
 
 # Comments.
