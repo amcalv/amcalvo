@@ -9,7 +9,7 @@ title: In preparation
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-# header:
-#  caption: ""
+ header:
+  caption: ""
 #  image: ""
 ---
