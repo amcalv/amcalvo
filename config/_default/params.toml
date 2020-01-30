@@ -158,6 +158,7 @@ sharing = true
   post_view = 2
   publication_view = 4
   talk_view = 3
+  inpreparation= 4
 
 # Configuration of project pages.
 [projects]
