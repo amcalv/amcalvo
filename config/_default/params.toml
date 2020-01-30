@@ -157,6 +157,7 @@ sharing = true
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 4
+  inpreparation_view = 4
   talk_view = 3
 
 # Comments.
