@@ -10,7 +10,7 @@ subtitle = ""
 
 [[item]]
   title = "Collaborators"
-  content = " <font size="6">This is some text!</font>  Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
+  content = " <font size="6">This is some text! Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
