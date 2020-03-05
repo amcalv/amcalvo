@@ -10,7 +10,7 @@ subtitle = ""
 
 [[item]]
   title = "Collaborators"
-  content = " <font size="6">This is some text! Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
+  content = "This is some text! Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -25,5 +25,10 @@ subtitle = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[design]
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min = 0.7
+  font_size_max = 2.0
 
 +++
