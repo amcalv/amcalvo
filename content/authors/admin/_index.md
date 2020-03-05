@@ -36,6 +36,8 @@ education:
   - course: BSc in Mechanical Engineering
     institution: Universidad Carlos III de Madrid
     year: 2015
+    
+collaborators:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
