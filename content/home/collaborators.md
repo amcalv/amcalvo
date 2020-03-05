@@ -10,7 +10,7 @@ subtitle = ""
 
 [[item]]
   title = "Collaborators"
-  content = "This is some text! Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
+  content = "Javier Rivero-Rodríguez, Daniel Moreno-Boza (UC3M), Mariano Rubio-Rubio (UC3M), Miguel Ruiz-García (UPenn), Benoit Scheid (Université Libre de Bruxelles), Howard A. Stone (Princeton University), Gunnar G. Peng (Cambridge University)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -28,7 +28,7 @@ subtitle = ""
   
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.7
-  font_size_max = 2.0
+  font_size_min = 0.5
+  font_size_max = 0.8
 
 +++
