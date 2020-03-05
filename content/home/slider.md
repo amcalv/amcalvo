@@ -38,7 +38,7 @@ height = ""
   title = "Left"
   content = "I am left aligned :smile:"
   align = "left"
-  font_size = "8"
+
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
