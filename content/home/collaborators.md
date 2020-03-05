@@ -16,11 +16,11 @@ subtitle = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+  font_size = "8"
   
 [[item]]
   title = "Right"
-  content = "I am right aligned :smile:"
+  content = "I am always happy to collaborate and work on new challenges"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
