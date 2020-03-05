@@ -7,6 +7,11 @@ weight = 120  # Order that this section will appear.
 title = "Collaborators"
 subtitle = ""
 
+[design]
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min = 0.05
+  font_size_max = 0.1
+
 
 [[item]]
   title = "Collaborators"
@@ -26,9 +31,5 @@ subtitle = ""
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-[design]
-  # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.05
-  font_size_max = 0.1
 
 +++
