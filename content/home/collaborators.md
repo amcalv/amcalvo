@@ -28,7 +28,7 @@ subtitle = ""
   
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.5
-  font_size_max = 0.8
+  font_size_min = 0.2
+  font_size_max = 0.4
 
 +++
