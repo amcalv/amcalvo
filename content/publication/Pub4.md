@@ -1,7 +1,7 @@
 +++
 # abstract = ""
 authors = ["**A. Martínez-Calvo**", "J. Rivero-Rodríguez", "B. Scheid", "A. Sevilla"]
-date = "2019-11-19"
+date = "2020-01-25"
 # image_preview = ""
 math = true
 publication_types = ["2"]
