@@ -5,11 +5,11 @@ name = "alison"
 google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono|Ostwald|Lato"
 
 # Font families
-heading_font = "Ostwald"
+heading_font = "Lato"
 body_font = "Lato"
 nav_font = "Ostwald"
 mono_font = "Lato"
 
 # Font size
-font_size = "14"
-font_size_small = "12"
+font_size = "12"
+font_size_small = "10"
