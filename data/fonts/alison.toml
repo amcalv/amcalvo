@@ -7,9 +7,9 @@ google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono|Ostwald|Lato"
 # Font families
 heading_font = "Ostwald"
 body_font = "Ostwald"
-nav_font = "Lato"
-mono_font = "Ostwald"
+nav_font = "Ostwald"
+mono_font = "Lato"
 
 # Font size
-font_size = "17"
-font_size_small = "16"
+font_size = "16"
+font_size_small = "15"
