@@ -2,14 +2,14 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
+google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono|Ostwald|Lato"
 
 # Font families
-heading_font = "Arapey"
-body_font = "Karla"
+heading_font = "Ostwald"
+body_font = "Lato"
 nav_font = "Karla"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "18"
-font_size_small = "16"
+font_size = "17"
+font_size_small = "15"
