@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Fluid Mechanics
-    institution: Universidad Carlos III de Madrid \n bla
+    institution: [ { name = "Department of Management and Entrepreneurship, <br>W.P. Carey School of Business, <br>Arizona State University " }]
     year: Currently
     # institution: Research stay with Howard A. Stone (Princeton University, USA) 2019
     # institution: Research stay with Benoit Scheid (Université Libre de Bruxelles, Belgium) 2018
