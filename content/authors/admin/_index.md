@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uc3m.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. My research lies within the field of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
+bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. My research lies within the field of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, and fluid-structure interaction at the microscale, among others.
 
 interests:
 - Free-surface flows
@@ -30,6 +30,8 @@ education:
   - course: PhD in Fluid Mechanics
     institution: Universidad Carlos III de Madrid
     year: Currently
+    - Research stay with Howard A. Stone (Princeton University, USA) - 2019
+    - Research stay with Benoit Scheid (Université Libre de Bruxelles, Belgium) - 2018
   - course: MSc in Applied Mathematics
     institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
     year: 2017
