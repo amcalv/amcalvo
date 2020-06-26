@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Fluid Mechanics
-    institution: Universidad Carlos III de Madrid \\ \\ Research stay with Howard A. Stone (Princeton University, USA) 2019 \n- Research stay with Benoit Scheid (Université Libre de Bruxelles, Belgium) 2018
+    institution: """1. item 1 \n2. test 2 \n3. test 3""" Universidad Carlos III de Madrid \\ \\ Research stay with Howard A. Stone (Princeton University, USA) 2019 \n- Research stay with Benoit Scheid (Université Libre de Bruxelles, Belgium) 2018
     year: Currently
   - course: MSc in Applied Mathematics
     institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
