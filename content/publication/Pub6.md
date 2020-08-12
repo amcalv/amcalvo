@@ -1,11 +1,11 @@
 +++
 # abstract = ""
-authors = ["**A. Martínez Calvo**", "A. Sevilla"]
-date = "2019-12-24"
+authors = ["6.-, **A. Martínez Calvo**", "A. Sevilla"]
+date = "2020-08-12"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "submitted to _Phys. Rev. Lett_"
+publication = "accepted in _Phys. Rev. Lett_"
 # publication_short = "In "
 selected = true
 title = "Universal thinning of liquid filaments under dominant surface dissipation"
