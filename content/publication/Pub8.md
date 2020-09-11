@@ -1,16 +1,16 @@
 +++
 # abstract = ""
-authors = ["8.-, **A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
+authors = ["9.-, **A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
 date = "2020-10-11"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "under review in _Phys. Fluids_"
+publication = "under review in _Soft Matt._"
 # publication_short = "In "
 selected = true
-title = "The effect of wall slip on the dewetting of ultrathin films on solid substrates. Part I: Linear instability and second-order lubrication theory"
+title = "Instability and rupture of ultra-thin viscoelastic liquid coatings"
 # url_title = "https://doi.org/10.1017/jfm.2018.293"
-url_preprint = "https://arxiv.org/abs/2005.06263"
+# url_preprint = "https://arxiv.org/abs/2005.06263"
 # url_dataset = "#"
 # url_pdf = "https://arxiv.org/pdf/1906.04685.pdf"
 # url_project = "project/deep-learning/"
