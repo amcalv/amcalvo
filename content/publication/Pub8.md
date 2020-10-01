@@ -1,16 +1,16 @@
 +++
 # abstract = ""
-authors = ["8.-, **A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
+authors = ["8.-, D. Moreno-Boza", "**A. Martínez Calvo**", "A. Sevilla"]
 date = "2020-09-11"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "under review in _Phys. Fluids_"
+publication = "under review in _J. Fluid Mech_"
 # publication_short = "In "
 selected = true
-title = "The effect of wall slip on the dewetting of ultrathin films on solid substrates: Linear instability and second-order lubrication theory"
+title = "The role of inertia in the rupture of ultrathin liquid films"
 # url_title = "https://doi.org/10.1017/jfm.2018.293"
-url_preprint = "https://arxiv.org/abs/2005.06263"
+url_preprint = "https://arxiv.org/abs/2005.04785"
 # url_dataset = "#"
 # url_pdf = "https://arxiv.org/pdf/1906.04685.pdf"
 # url_project = "project/deep-learning/"
