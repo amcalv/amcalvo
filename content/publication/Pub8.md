@@ -1,11 +1,11 @@
 +++
 # abstract = ""
 authors = ["8.-, D. Moreno-Boza", "**A. Martínez Calvo**", "A. Sevilla"]
-date = "2020-10-01"
+date = "2020-10-25"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "under review in _J. Fluid Mech_"
+publication = "under review in _Phys. Fluids_"
 # publication_short = "In "
 selected = true
 title = "The role of inertia in the rupture of ultrathin liquid films"
