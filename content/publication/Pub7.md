@@ -1,11 +1,11 @@
 +++
 # abstract = ""
 authors = ["7.-, **A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
-date = "2020-09-30"
+date = "2020-10-15"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "accepted in _Phys. Fluids_"
+publication = "_Phys. Fluids_ **32**, 102107"
 # publication_short = "In "
 selected = true
 title = "The effect of wall slip on the dewetting of ultrathin films on solid substrates: Linear instability and second-order lubrication theory"
