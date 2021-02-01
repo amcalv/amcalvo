@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Fluid Mechanics
+role: Postdoctoral researcher at
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uc3m.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. My research lies within the field of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, and fluid-structure interaction at the microscale, among others.
+bio: I was born in Madrid where I studied Mechanical Engineering, a Master degree in Applied Mathematics, and a Ph.D. under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. I will join the Princeton Center for Theoretical Science as a Postdoctoral Researcher in Fall, 2021. My past and some of my current research lie within the field of fluid dynamics, and more specifically small-scale interfacial flows, surface and bulk rheology, and fluid-structure interaction at the microscale, among others. Currently I am exploring new directions within the field of biophysics and active matter.
 
 interests:
 - Free-surface flows
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Fluid Mechanics
     institution: Universidad Carlos III de Madrid ----------------- Research stay with Howard A. Stone, 2019, Princeton University, USA ------------------------------------- Research stay with Benoit Scheid, 2018, Université Libre de Bruxelles, Belgium
-    year: Currently
+    year: 2020
   - course: MSc in Applied Mathematics
     institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
     year: 2017
