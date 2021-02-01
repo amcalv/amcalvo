@@ -78,5 +78,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I was born in Madrid where I studied Mechanical Engineering and a Master degree in Applied Mathematics. Currently I am doing my Ph.D. thesis under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid. My research lies within the field of fluid dynamics, and in particular my main interests are free-surface flows, surface rheology, fluid-structure interaction at the microscale, among others.
+I was born in Madrid where I studied Mechanical Engineering, a Master degree in Applied Mathematics, and a Ph.D. under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. I will join the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science as a Postdoctoral Researcher in Fall, 2021. My past and some of my current research lie within the field of fluid dynamics, and more specifically small-scale interfacial flows, surface and bulk rheology, and fluid-structure interaction at the microscale, among others. Currently I am exploring new directions within the field of biophysics and active matter.
