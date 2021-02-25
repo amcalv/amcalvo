@@ -1,7 +1,7 @@
 +++
 
 # abstract = ""
-# authors = ["D. Moreno-Boza", "**A. Martínez-Calvo**",  "A. Sevilla"]
+authors = ["A. Landajuela", "M. Braun", "C.D.A. Rodrigues", "**A. Martínez-Calvo**", "T. Doan", "F. Horenkamp", "A. Andronicos", "V. Shteyn", "N.D. Williams", "C. Lin", "N.S. Wingreen", "D.Z. Rudner", "E. Karatekin"]
 date = "2020-01-01"
 # image_preview = ""
 math = true
