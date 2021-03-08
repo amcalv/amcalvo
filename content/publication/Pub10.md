@@ -10,7 +10,6 @@ publication_types = ["2"]
 # publication_short = "In "
 selected = true
 title = "FisB relies on homo-oligomerization and lipid-binding to catalyze membrane fission in bacteria"
-# title = "The effect of wall slip on the dewetting of ultrathin films on solid substrates. Part II: Nonlinear dynamics and rupture"
 # url_doi = "https://doi.org/10.1017/jfm.2017.706"
 # url_arxiv = "https://arxiv.org/abs/1802.08477"
 # url_dataset = "#"
