@@ -1,11 +1,11 @@
 +++
 # abstract = ""
-authors = ["9.-, **A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
+authors = ["9.-", "**A. Martínez Calvo**", "D. Moreno-Boza", "A. Sevilla"]
 date = "2021-03-25"
 # image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "_Soft Matter_"
+publication = "_Soft Matter_ **17**, 4363-4374"
 # publication_short = "In "
 selected = true
 title = "Non-linear dynamics and self-similarity in the rupture of ultra-thin viscoelastic liquid coatings"
