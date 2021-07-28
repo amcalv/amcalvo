@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher at
+role: HFSP fellow at
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Carlos III de Madrid
-  url: "https://www.uc3m.es"
+- name: Princeton University
+  url: "https://www.princeton.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I was born in Madrid where I studied Mechanical Engineering, a Master degree in Applied Mathematics, and a Ph.D. under the supervision of Prof. Alejandro Sevilla at Universidad Carlos III de Madrid. I will join the Princeton Center for Theoretical Science as a Postdoctoral Researcher in Fall, 2021. My past and some of my current research lie within the field of fluid dynamics, and more specifically small-scale interfacial flows, surface and bulk rheology, and fluid-structure interaction at the microscale, among others. Currently I am exploring new directions within the field of biophysics and active matter.
+bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> and the <a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a> at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
 
 interests:
-- Free-surface flows
-- Surface rheology
-- Fluid-structure interaction at low Reynolds numbers 
+- Biological Physics
+- Soft Active Matter
+- Fluid Dynamics
 
 education:
   courses:
