@@ -14,7 +14,7 @@ role: HFSP fellow (Associate Research Scholar) at
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton Center for Theoretical Science and Department of Chemical and Biological Engineering, Princeton University
+- name: Princeton Center for Theoretical Science
   url: "https://www.princeton.edu"
 
 # Short bio (displayed in user profile at end of posts)
