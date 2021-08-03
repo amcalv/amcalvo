@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: HFSP fellow (Associate Research Scholar) at
+role: HFSP fellow (Associate Research Scholar)
 
 # Organizations/Affiliations
 organizations:
