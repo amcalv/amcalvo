@@ -82,8 +82,4 @@ I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a>
 
 My research is framed within the fields of soft/active matter, biological physics, and fluid dynamics. So far, I have studied systems involving small-scale interfacial flows, bulk and interfacial rheology, elasticity, and membrane dynamics. Currently, I am interested in several research areas within the context of biophysics and living matter, namely the dynamics of eukaryotic cells and tissues, and the physics of bacteria in complex habitats. I employ theory and accurate numerical methods to unravel the physics of these complex systems.
 
-{{ $asset := resources.Get "/hfsp.png" }}
-{{ $img := $asset.Fit "600x400" }}
-<figure class="image is-3by2">
-  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
-</figure>
+![some text](/static/img/pcts.png)
