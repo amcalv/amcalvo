@@ -16,8 +16,6 @@ role: HFSP fellow (Associate Research Scholar)
 organizations:
 - name: Princeton University
   url: "https://www.princeton.edu"
- 
-![hfsp](img/hfsp.png) ![princeton](img/princeton.png)
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> and the <a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a> (<a href="https://dattalab.princeton.edu">Datta Lab</a>) at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
@@ -84,3 +82,6 @@ user_groups:
 I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> and the <a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a> (<a href="https://dattalab.princeton.edu">Datta Lab</a>) at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
 
 My research is framed within the fields of soft/active matter, biological physics, and fluid dynamics. So far, I have studied systems involving small-scale interfacial flows, bulk and interfacial rheology, elasticity, and membrane dynamics. Currently, I am interested in several research areas within the context of biophysics and living matter, namely the dynamics of eukaryotic cells and tissues, and the physics of bacteria in complex habitats. I employ theory and accurate numerical methods to unravel the physics of these complex systems.
+
+ 
+![princeton](img/princeton.png) ![hfsp](img/hfsp.png)
