@@ -16,6 +16,8 @@ role: HFSP fellow (Associate Research Scholar)
 organizations:
 - name: Princeton University
   url: "https://www.princeton.edu"
+ 
+![hfsp](img/hfsp.png) ![princeton](img/princeton.png)
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> and the <a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a> (<a href="https://dattalab.princeton.edu">Datta Lab</a>) at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
@@ -69,7 +71,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-![hfsp](img/hfsp.png) ![princeton](img/princeton.png)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
