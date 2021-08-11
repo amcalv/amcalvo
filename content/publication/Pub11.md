@@ -11,7 +11,7 @@ publication_types = ["2"]
 selected = true
 title = "Cell-substrate friction triggers complex fingering instabilities in spreading epithelial monolayers"
 # url_doi = "https://doi.org/10.1017/jfm.2017.706"
- url_preprint = "https://arxiv.org/pdf/2104.05699.pdf"
+# url_preprint = "https://arxiv.org/pdf/2104.05699.pdf"
 # url_dataset = "#"
 url_pdf = "http://pubs.rsc.org/en/content/articlepdf/2021/SM/D1SM00626F?page=search"
 # url_project = "project/deep-learning/"
