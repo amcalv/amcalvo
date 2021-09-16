@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "amcalvo@ing.uc3m.es"
-phone = "(+34) 91 624 6225"
-address = "Building Agustín de Betancourt, Office 1.1.D14, Universidad Carlos III, Leganés (Madrid), 28911, Spain"
+email = "amcalvo@princeton.edu"
+phone = "(+1)  609-258-4334"
+address = "Princeton Center for Theoretical Science, 415 Jadwin Hall, Princeton University, Princeton, NJ 08544"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -105,8 +105,8 @@ address = "Building Agustín de Betancourt, Office 1.1.D14, Universidad Carlos I
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "40.33350479"
-longitude = "-3.76588583"
+latitude = "40.34499305875213"
+longitude = "-74.65168661566916"
 zoom = 20
 
 ############################
