@@ -18,7 +18,7 @@ organizations:
   url: "https://www.princeton.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> and the <a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a> (<a href="https://dattalab.princeton.edu">Datta Lab</a>) at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
+bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> and PCTS fellow at the <a href="https://pcts.princeton.edu/">Princeton Center for Theoretical Science</a> (<a href="https://phy.princeton.edu/">Physics Department</a>), the <a href="https://dattalab.princeton.edu">Datta Lab</a> (<a href="https://cbe.princeton.edu">Department of Chemical and Biological Engineering</a>), and also affiliated with the <a href="https://biophysics.princeton.edu/">CPBF</a> at <a href="https://www.princeton.edu">Princeton University</a>. I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by a FPU doctoral fellowship.
 
 interests:
 - Biological Physics
