@@ -85,6 +85,3 @@ My research is framed within the fields of soft/active matter, biological physic
 
  
 ![princeton](img/aff.pdf)
-
-{{- $image := resources.Get "img/aff.pdf" -}}
-{{ $image := $resource.Resize "600x" }}
