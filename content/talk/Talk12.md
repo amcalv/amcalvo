@@ -1,7 +1,7 @@
 +++
 # abstract = ""
 authors = ["D. Moreno-Boza", "**A. Martínez-Calvo**","A. Sevilla"]
-date = "2020-10-25"
+date = "2020-11-24"
 # image_preview = ""
 math = true
 event = "_73rd Annual Meeting of the APS DFD_, Chicago, USA"
