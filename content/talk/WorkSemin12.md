@@ -1,12 +1,12 @@
 +++
 # abstract = ""
 authors = ["**A. Martínez-Calvo**"]
-date = "2021-10-15"
+date = "2021-09-23"
 # image_preview = ""
 math = true
-event = "_Prokaryotes Lunch_"
+event = "_Princeton Center for Theoretical Science Retreat_"
 selected = true
-title = "Membrane fission mechanisms in bacteria, Prokaryotes Lunch, Princeton, USA Oct. 2021"
+title = "Singularities and pattern formation in living and non-living matter, Princeton, USA Sept. 2021"
 # url_dataset = "#"
 # url_slides = ""
 # url_project = "project/deep-learning/"
