@@ -13,7 +13,7 @@ title = "Roughening instability of growing 3D bacterial colonies"
 # url_doi = ""
 # url_preprint = ""
 # url_dataset = "#"
-# url_pdf = ""
+url_pdf: ''
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
