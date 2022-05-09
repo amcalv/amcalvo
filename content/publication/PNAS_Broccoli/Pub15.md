@@ -10,10 +10,10 @@ publication_types = ["2"]
 # publication_short = "In "
 selected = true
 title = "Roughening instability of growing 3D bacterial colonies"
-# url_doi = " https://doi.org/10.1371/journal.pbio.3001314"
-# url_preprint = "https://www.biorxiv.org/content/10.1101/2021.10.08.463650v1"
+# url_doi = ""
+# url_preprint = ""
 # url_dataset = "#"
-# url_pdf = "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3001314&type=printable"
+url_pdf = "static/img/bioRxiv_Broccoli_final.pdf"
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
