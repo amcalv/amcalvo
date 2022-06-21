@@ -1,12 +1,12 @@
 +++
 
 # abstract = ""
-authors = ["13.-", "A. Landajuela", "M. Braun", "**A. Martínez-Calvo**", "C.D.A. Rodrigues", "T. Doan", "D.Z. Rudner", "N.S. Wingreen", "E. Karatekin"]
+authors = ["14.-", "A. Landajuela", "M. Braun", "**A. Martínez-Calvo**", "C.D.A. Rodrigues", "T. Doan", "D.Z. Rudner", "N.S. Wingreen", "E. Karatekin"]
 date = "2022-05-20"
 # image_preview = ""
 math = true
 publication_types = ["2"]
- publication = "n press _Curr._ _Biol_"
+ publication = "in press _Curr._ _Biol_"
 # publication_short = "In "
 selected = true
 title = "Membrane fission during bacterial spore development requires DNA-driven cellular inflation"
