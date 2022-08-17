@@ -18,7 +18,7 @@ organizations:
   url: "https://www.princeton.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> and <a href="https://pcts.princeton.edu">PCTS (Princeton Center for Theoretical Science)</a> fellow at <a href="https://www.princeton.edu">Princeton University</a>, working on biophysics and soft matter physics. Before, I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by an FPU doctoral fellowship.
+bio: I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> and <a href="https://pcts.princeton.edu">PCTS (Princeton Center for Theoretical Science)</a> fellow at <a href="https://www.princeton.edu">Princeton University</a>, working on biophysics and soft matter physics. Before, I obtained my Ph.D. in fluid dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by an FPU doctoral fellowship.
 
 interests:
 - Biological Physics
@@ -79,7 +79,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> and <a href="https://pcts.princeton.edu">PCTS (Princeton Center for Theoretical Science)</a> fellow at <a href="https://www.princeton.edu">Princeton University</a>, working on biophysics and soft matter physics. Before, I obtained my Ph.D. in Fluid Dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by an FPU doctoral fellowship.
+I am an <a href="https://www.hfsp.org">HFSP (Human Frontier Science Program)</a> and <a href="https://pcts.princeton.edu">PCTS (Princeton Center for Theoretical Science)</a> fellow at <a href="https://www.princeton.edu">Princeton University</a>, working on biophysics and soft matter physics. Before, I obtained my Ph.D. in fluid dynamics under the supervision of <a href="http://fluidosuc3m.es/people/asevilla/">Prof. Alejandro Sevilla</a> at Universidad Carlos III de Madrid, supported by an FPU doctoral fellowship.
 
 My research is framed within the fields of soft/active matter, biological physics, and fluid dynamics. So far, I have studied systems involving small-scale interfacial flows, bulk and interfacial rheology, elasticity, and membrane dynamics. Currently, I am interested in several research areas within the context of biophysics and living matter, namely the dynamics of eukaryotic cells and tissues, and the physics of bacteria in complex habitats. I employ theory and accurate numerical methods to unravel the physics of these complex systems.
 
