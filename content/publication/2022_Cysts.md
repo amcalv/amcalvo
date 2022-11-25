@@ -2,7 +2,7 @@
 
 # abstract = ""
 authors = ["17.-", "G. Shim", "I. B. Breinyn", "**A. Martínez-Calvo**", "D. J. Cohen"]
-date = "2022-05-20"
+date = "2022-10-20"
 # image_preview = ""
 math = true
 publication_types = ["2"]
