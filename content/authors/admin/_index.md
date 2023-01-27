@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Fluid Mechanics
     institution: Universidad Carlos III de Madrid
-    year: 2020
+    year: 2021
   - course: MSc in Applied Mathematics
     institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
     year: 2017
