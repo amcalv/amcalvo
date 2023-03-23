@@ -25,17 +25,17 @@ interests:
 - Soft Active Matter
 - Fluid Dynamics
 
-education:
-  courses:
-  - course: PhD in Fluid Mechanics
-    institution: Universidad Carlos III de Madrid
-    year: 2021
-  - course: MSc in Applied Mathematics
-    institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
-    year: 2017
-  - course: BSc in Mechanical Engineering
-    institution: Universidad Carlos III de Madrid
-    year: 2015
+# education:
+ # courses:
+ # - course: PhD in Fluid Mechanics
+ #   institution: Universidad Carlos III de Madrid
+ #   year: 2021
+ # - course: MSc in Applied Mathematics
+ #   institution: Universidad Carlos III de Madrid and Universidad Politécnica de Madrid
+ #   year: 2017
+ # - course: BSc in Mechanical Engineering
+ #   institution: Universidad Carlos III de Madrid
+ #   year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
