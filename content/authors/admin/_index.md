@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:amcalvo@ing.uc3m.es   #'#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es"
+  link: mailto:am72@princeton.edu   #'#contact'  # For a direct email link, use "mailto:amcalvo@ing.uc3m.es"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/almcalvo
