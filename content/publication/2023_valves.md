@@ -1,7 +1,6 @@
-
 # abstract = ""
 authors = ["20.-", "**A. Martínez-Calvo**",  "M.D. Biviano", "A. Christensen", "E. Katifori", "K.H. Jensen", "M. Ruiz-García"]
-date = "2023-3-10"
+date = "2023-3-12"
 # image_preview = ""
 math = true
 publication_types = ["2"]
